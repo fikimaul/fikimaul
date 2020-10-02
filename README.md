@@ -9,5 +9,3 @@ My Name is Fiki Maulana. From Yogyakarta, Indonesia, Currently Working as Web De
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikimaul&langs_count=5&theme=radical)](https://github.com/fikimaul)
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
