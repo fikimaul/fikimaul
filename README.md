@@ -9,9 +9,9 @@ My Name is Fiki Maulana. From Yogyakarta, Indonesia, Currently Working as Web De
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikimaul&langs_count=5&theme=radical)](https://github.com/fikimaul)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/fikimaul/fikfile-downloader/pull/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
-2. 🗣 Commented on [#3](https://github.com/fikimaul/fikfile-downloader/issues/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
-3. ❗️ Closed issue [#1](https://github.com/fikimaul/fikfile-downloader/issues/1) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
-4. 🎉 Merged PR [#2](https://github.com/fikimaul/fikfile-downloader/pull/2) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
-5. 🗣 Commented on [#1](https://github.com/fikimaul/fikfile-downloader/issues/1) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
+1. 💪 Opened PR [#416](https://github.com/thamara/time-to-leave/pull/416) in [thamara/time-to-leave](https://github.com/thamara/time-to-leave)
+2. ❌ Closed PR [#3](https://github.com/fikimaul/fikfile-downloader/pull/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
+3. 🗣 Commented on [#3](https://github.com/fikimaul/fikfile-downloader/issues/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
+4. ❗️ Closed issue [#1](https://github.com/fikimaul/fikfile-downloader/issues/1) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
+5. 🎉 Merged PR [#2](https://github.com/fikimaul/fikfile-downloader/pull/2) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
 <!--END_SECTION:activity-->
