@@ -9,9 +9,9 @@ My Name is Fiki Maulana. From Yogyakarta, Indonesia, Currently Working as Web De
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikimaul&langs_count=5&theme=radical)](https://github.com/fikimaul)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/thamara/time-to-leave/issues/416) in [thamara/time-to-leave](https://github.com/thamara/time-to-leave)
-2. 💪 Opened PR [#416](https://github.com/thamara/time-to-leave/pull/416) in [thamara/time-to-leave](https://github.com/thamara/time-to-leave)
-3. ❌ Closed PR [#3](https://github.com/fikimaul/fikfile-downloader/pull/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
-4. 🗣 Commented on [#3](https://github.com/fikimaul/fikfile-downloader/issues/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
-5. ❗️ Closed issue [#1](https://github.com/fikimaul/fikfile-downloader/issues/1) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
+1. 💪 Opened PR [#92](https://github.com/jeremie1112/All_Programs_and_algorithms/pull/92) in [jeremie1112/All_Programs_and_algorithms](https://github.com/jeremie1112/All_Programs_and_algorithms)
+2. 🗣 Commented on [#416](https://github.com/thamara/time-to-leave/issues/416) in [thamara/time-to-leave](https://github.com/thamara/time-to-leave)
+3. 💪 Opened PR [#416](https://github.com/thamara/time-to-leave/pull/416) in [thamara/time-to-leave](https://github.com/thamara/time-to-leave)
+4. ❌ Closed PR [#3](https://github.com/fikimaul/fikfile-downloader/pull/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
+5. 🗣 Commented on [#3](https://github.com/fikimaul/fikfile-downloader/issues/3) in [fikimaul/fikfile-downloader](https://github.com/fikimaul/fikfile-downloader)
 <!--END_SECTION:activity-->
