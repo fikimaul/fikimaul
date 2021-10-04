@@ -5,9 +5,9 @@ My Name is Fiki Maulana. From Yogyakarta, Indonesia, Currently Working as Web De
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#395](https://github.com/bebasid/bebasid/pull/395) in [bebasid/bebasid](https://github.com/bebasid/bebasid)
-2. 💪 Opened PR [#208](https://github.com/adeekshith/watomatic/pull/208) in [adeekshith/watomatic](https://github.com/adeekshith/watomatic)
-3. 🗣 Commented on [#202](https://github.com/adeekshith/watomatic/issues/202) in [adeekshith/watomatic](https://github.com/adeekshith/watomatic)
-4. ❗️ Opened issue [#202](https://github.com/adeekshith/watomatic/issues/202) in [adeekshith/watomatic](https://github.com/adeekshith/watomatic)
-5. ❌ Closed PR [#1](https://github.com/fikimaul/swot/pull/1) in [fikimaul/swot](https://github.com/fikimaul/swot)
+1. 🎉 Merged PR [#1](https://github.com/fikimaul/whatsapp-online-tracking/pull/1) in [fikimaul/whatsapp-online-tracking](https://github.com/fikimaul/whatsapp-online-tracking)
+2. 💪 Opened PR [#1](https://github.com/fikimaul/whatsapp-online-tracking/pull/1) in [fikimaul/whatsapp-online-tracking](https://github.com/fikimaul/whatsapp-online-tracking)
+3. 💪 Opened PR [#100](https://github.com/Faiznurullah/Hacktoberfest-Contribution/pull/100) in [Faiznurullah/Hacktoberfest-Contribution](https://github.com/Faiznurullah/Hacktoberfest-Contribution)
+4. 💪 Opened PR [#94](https://github.com/Faiznurullah/Hacktoberfest-Contribution/pull/94) in [Faiznurullah/Hacktoberfest-Contribution](https://github.com/Faiznurullah/Hacktoberfest-Contribution)
+5. 💪 Opened PR [#1](https://github.com/fikimaul/hoppscotch/pull/1) in [fikimaul/hoppscotch](https://github.com/fikimaul/hoppscotch)
 <!--END_SECTION:activity-->
