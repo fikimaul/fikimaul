@@ -14,3 +14,5 @@ My Name is Fiki Maulana. From Yogyakarta, Indonesia, Currently Working as Web De
 
 ## Statistics
 <img src="https://komarev.com/ghpvc/?username=fikimaul&color=ff69b4&style=flat&label=PROFILE+VIEWS" alt="Fiki Maulana" /><br>
+
+![Spotify](https://novatorem-fikimaul.vercel.app/api/spotify)
