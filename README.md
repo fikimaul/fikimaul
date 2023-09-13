@@ -13,3 +13,6 @@ My Name is <a rel="me" href="https://mastodon.social/@fiki">Fiki Maulana</a>. Fr
 4. 💪 Opened PR [#3894](https://github.com/web-scrobbler/web-scrobbler/pull/3894) in [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler)
 5. 🗣 Commented on [#11](https://github.com/PKBeam/AMWin-RP/issues/11#issuecomment-1529346095) in [PKBeam/AMWin-RP](https://github.com/PKBeam/AMWin-RP)
 <!--END_SECTION:activity-->
+
+![](https://raw.githubusercontent.com/fikimaul/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/fikimaul/github-stats/master/generated/languages.svg#gh-light-mode-only)
